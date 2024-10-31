@@ -4,7 +4,7 @@
 <h2> Hi 👋🏼 I'm HataruModz !</h2>
 <img align='right' src="https://user-images.githubusercontent.com/13212227/216361867-d352f366-48e4-4085-8c14-266655973557.png" width="200">
 <p><em>Offensive Security Engineer and Developer and H4cker <img src="https://github.com/hahwul/hahwul/assets/13212227/af41f7bf-5b41-42dd-aed3-8560a6e3187d" width="50"><br><br>
-  'hahwul' is a new word made by remixing my name, and that's me. pronunciation is a little vague. Call me hɑːhul, but you can call me haʊl.
+  'hataru' is a new word made by remixing my name, and that's me. pronunciation is a little vague. Call me hɑːhul, but you can call me haʊl.
 </em></p>
 <br><br><br><br>
 
@@ -14,12 +14,12 @@ More about me...
 def this_is_me
   hahwul = {}
   hahwul[:job] = "🗡 Security engineer, red team that aims for a purple team"
-  hahwul[:pronouns] = "🧑🏽‍💻 Ariz/Hataru"
-  hahwul[:special_move] = "🔥 Web Hacking"
-  hahwul[:main_weapon] = ["⚡️ ZAP", "💥 Caido", "☄️ Metasploit"]
-  hahwul[:favorite_language] = ["💎 Ruby", "🐹 Golang"]
-  hahwul[:loved_language] = hahwul[:favorite_language] << "💎 Crystal"
-  hahwul
+  hatarul[:pronouns] = "🧑🏽‍💻 Ariz/Hataru"
+  hataru[:special_move] = "🔥 Web Hacking"
+  hataru[:main_weapon] = ["⚡️ ZAP", "💥 Caido", "☄️ Metasploit"]
+  hataru[:favorite_language] = ["💎 Ruby", "🐹 Golang"]
+  hataru[:loved_language] = hahwul[:favorite_language] << "💎 Crystal"
+  hataru
 end
 
 # Although I usually like web hacking, 
