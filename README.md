@@ -12,14 +12,15 @@ More about me...
 
 ```ruby
 def this_is_me
-  hahwul = {}
-  hahwul[:job] = "🗡 Security engineer, red team that aims for a purple team"
+  hataru = {}
+  hataru[:job] = "🗡 Security engineer, red team that aims for a purple team"
   hatarul[:pronouns] = "🧑🏽‍💻 Ariz/Hataru"
   hataru[:special_move] = "🔥 Web Hacking"
   hataru[:main_weapon] = ["⚡️ ZAP", "💥 Caido", "☄️ Metasploit"]
   hataru[:favorite_language] = ["💎 Ruby", "🐹 Golang"]
-  hataru[:loved_language] = hahwul[:favorite_language] << "💎 Crystal"
+  hataru[:loved_language] = hataru[:favorite_language] << "💎 Crystal"
   hataru
+message: don't forget to donate so i can buy a new pc
 end
 
 # Although I usually like web hacking, 
