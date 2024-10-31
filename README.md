@@ -40,5 +40,5 @@
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Hexagonz`](https://github.com/hexagonz)
+* [`Hexagonz`](https://github.com/hatarumodz)
 
