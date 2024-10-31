@@ -5,7 +5,7 @@ return`
 │  Bantu Developer ngembangin bot ini
 │  dengan donasi seiklasnya 🙂
 │
-│  Gopay : 6289525641549
+│  Gopay : 6285378426671
 │ 
 │ Makasih yang udah donasi
 │ dan bantu ngembangin bot ini
